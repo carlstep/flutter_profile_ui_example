@@ -108,7 +108,7 @@ void main() {
                   ),
                 ),
                 const SizedBox(
-                  height: 10,
+                  height: 15,
                 ),
                 const ProfileMenuItem(
                   currencyName: 'Albanian LEK',
@@ -118,7 +118,7 @@ void main() {
                   share: true,
                 ),
                 const SizedBox(
-                  height: 10,
+                  height: 15,
                 ),
                 const ProfileMenuItem(
                   currencyName: 'British Pound',
@@ -128,7 +128,7 @@ void main() {
                   share: true,
                 ),
                 const SizedBox(
-                  height: 10,
+                  height: 15,
                 ),
                 const ProfileMenuItem(
                   currencyName: 'Euro',
@@ -138,7 +138,7 @@ void main() {
                   share: true,
                 ),
                 const SizedBox(
-                  height: 10,
+                  height: 15,
                 ),
                 const ProfileMenuItem(
                   currencyName: 'Georgian Lari',
@@ -148,7 +148,7 @@ void main() {
                   share: false,
                 ),
                 const SizedBox(
-                  height: 10,
+                  height: 15,
                 ),
                 const ProfileMenuItem(
                   currencyName: 'Albanian LEK',
@@ -158,7 +158,7 @@ void main() {
                   share: true,
                 ),
                 const SizedBox(
-                  height: 10,
+                  height: 15,
                 ),
                 const ProfileMenuItem(
                   currencyName: 'British Pound',
@@ -168,7 +168,7 @@ void main() {
                   share: true,
                 ),
                 const SizedBox(
-                  height: 10,
+                  height: 15,
                 ),
                 const ProfileMenuItem(
                   currencyName: 'Euro',
@@ -178,7 +178,7 @@ void main() {
                   share: true,
                 ),
                 const SizedBox(
-                  height: 10,
+                  height: 15,
                 ),
                 const ProfileMenuItem(
                   currencyName: 'Georgian Lari',
